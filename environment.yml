@@ -1,0 +1,9 @@
+name: ml-r
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.10
+  - r-caret
