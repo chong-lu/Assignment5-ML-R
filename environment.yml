@@ -5,5 +5,12 @@ channels:
   - defaults
 dependencies:
   - jupyterlab
-  - python=3.10
+  - r-base=4.2.3
   - r-caret
+  - r-ggplot2
+  - r-irkernel
+  - r-kernlab
+  - r-class
+  - r-mass
+  - r-randomforest
+  - r-rpart
