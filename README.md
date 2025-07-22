@@ -6,10 +6,10 @@ This project contains a simple machine learning workflow using the Iris dataset 
 
 ```
 Assignment5-ML-R/
-├── environment.yml                        # Conda environment definition for R kernel and dependencies
-├── notebooks/
-│   └── machine-learning-in-r.ipynb        # Main notebook with R-based modeling code
-└── README.md                              # Project documentation
+├── environment.yml             # Conda environment definition for R kernel and dependencies
+├── machine-learning-in-r.ipynb # Main notebook with R-based modeling code
+├── iris.csv                    # input data file
+└── README.md                   # Project documentation
 ```
 
 ## Goals
@@ -71,7 +71,7 @@ cd Assignment5-ML-R
 jupyter lab
 ```
 
-3. Open `notebooks/machine-learning-in-r.ipynb` and run each cell sequentially.
+3. Open `machine-learning-in-r.ipynb` and run each cell sequentially.
 
 ## License
 
